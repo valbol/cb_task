@@ -1,0 +1,47 @@
+{
+    "questionaire_data": {
+        "points_per_correct_answer": 100,
+        "contestant_name": "John Wick",
+        "questions": [
+            {
+                "question": "Who was the first PM of israel?",
+                "answers": [
+                    "David Ben Gurion",
+                    "Golda Meir",
+                    "Yitzhak Rabin",
+                    "Menachem Begin"
+                ],
+                "correct_answer": 0
+            },
+            {
+                "question": "What is Israel's capital?",
+                "answers": [
+                    "Jerusalem",
+                    "Tel Aviv",
+                    "Haifa",
+                    "Eilat"
+                ],
+                "correct_answer": 0
+            },
+            {"question": "What is the color of the sky?",
+            "answers": [
+                "Green",
+                "Red",
+                "Blue",
+                "Yellow"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "question": "Who is the best developer ever?",
+            "answers": [
+                "You",
+                "Uncle Bob",
+                "Guido van Rossum",
+                "Linus Torvalds"
+            ],
+            "correct_answer": 0
+        }
+        ]
+    }
+}
